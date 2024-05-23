@@ -1,7 +1,3 @@
-Certainly! Here's a README file based on the HTML structure overview you provided:
-
----
-
 # ShopSee: Online Shopping Website
 
 ## Overview
